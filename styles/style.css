@@ -6,7 +6,7 @@ body {
 }
 
 ul {
-  padding:inherit: 0;
+  padding: inherit 0;
   list-style: none;
 }
 
@@ -207,7 +207,7 @@ figure {
 
 .circle-icon--primary {
   background: #6362b8;
-
+}
 
 .circle-icon--success {
   background: #51a852;
